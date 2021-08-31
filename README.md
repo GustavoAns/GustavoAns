@@ -18,4 +18,4 @@
 </div>
 <h2 align="center">Ultima contribuições :</h2>
 
-![Snake animation](https://github.com/rafaballerini/GustavoAns/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GustavoAns/GustavoAns/blob/output/github-contribution-grid-snake.svg)
