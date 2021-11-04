@@ -16,6 +16,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=GustavoAns&show_icons=true&theme=voe" />
   
 </div>
-<h2 align="center">Ultima contribuições :</h2>
+<h2 align="center">Ultimas contribuições :</h2>
 
 ![Snake animation](https://github.com/GustavoAns/GustavoAns/blob/output/github-contribution-grid-snake.svg)
