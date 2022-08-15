@@ -3,6 +3,11 @@
 <p>Curioso desde criança com novas tecnologias, Sempre busquei aprender a criar soluçoes para problemas do meu dia a dia.</p>
 <p>Hoje, aos 21 anos, sou desenvolvedor Full Stack e adoro o que faço. 🤓</p>
 <p>Há pouco menos de um ano iniciei meus estudos na <a href="https://www.betrybe.com/">Trybe</a>, escola de programação voltada principalmente para Hard-Skills e Soft-Skills exigidos pelo mercado de trabalho. 💼</p>
+<h2><b>Contato</b></h2>
+<div display="flex" align="center">
+	<a href="https://www.linkedin.com/in/gustavoans/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"/></a>
+	<a href="https://api.whatsapp.com/send?phone=5511972298355&text=Ola, vi seu perfil no GitHub!"><img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="blank"/>
+</div>
 <h2><b>Habilidades</b></h2>
 <div display="flex" align="center">
   <h3> Back-end </h3>
