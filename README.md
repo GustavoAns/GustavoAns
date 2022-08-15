@@ -9,6 +9,7 @@
 	<a href="https://api.whatsapp.com/send?phone=5511972298355&text=Ola, vi seu perfil no GitHub!"><img alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="blank"/>
 </div>
 <h2><b>Habilidades</b></h2>
+<p>Abaixo estão as principais tecnologias que estudo. Esta lista está em constante crescimento, pois estou sempre procurando aprimorar meu conhecimento de tecnologias que já conheço e estou aberto a aprender novas. ✊</p>
 <div display="flex" align="center">
   <h3> Back-end </h3>
   <img src="https://camo.githubusercontent.com/667b7fa6bf35f7fdfbd7d6276c5e4aa048565f49effc59571599366a7837d711/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d333233333330" alt="JavaScript"/>
