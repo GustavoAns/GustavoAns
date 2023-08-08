@@ -1,8 +1,8 @@
 <h1 align="center">Olá <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30>, Eu me chamo Gustavo Anselmo</h1>
 <h2><b>Sobre mim</b></h2>
 <p>Curioso desde criança com novas tecnologias, Sempre busquei aprender a criar soluçoes para problemas do meu dia a dia.</p>
-<p>Hoje, aos 21 anos, sou desenvolvedor Full Stack e adoro o que faço. 🤓</p>
-<p>Há pouco menos de um ano iniciei meus estudos na <a href="https://www.betrybe.com/">Trybe</a>, escola de programação voltada principalmente para Hard-Skills e Soft-Skills exigidos pelo mercado de trabalho. 💼</p>
+<p>Hoje, aos 22 anos, sou desenvolvedor Full Stack e adoro o que faço. 🤓</p>
+<p>Há pouco mais de um ano terminei meus estudos na <a href="https://www.betrybe.com/">Trybe</a>, escola de programação voltada principalmente para Hard-Skills e Soft-Skills exigidos pelo mercado de trabalho. 💼</p>
 <h2><b>Contato</b></h2>
 <div display="flex" align="center">
 	<a href="https://www.linkedin.com/in/gustavoans/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"/></a>
@@ -22,9 +22,10 @@
     <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
     <h3>Front-end</h3>
 	<img src="https://camo.githubusercontent.com/667b7fa6bf35f7fdfbd7d6276c5e4aa048565f49effc59571599366a7837d711/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d333233333330" alt="JavaScript"/>
+	<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.Js"/>
+	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 	<img src="https://camo.githubusercontent.com/7a6cbdfb7f27165fd8e8a8a802b424a3ed61bee3583af3fb905e598f714ef9ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML"/>
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 	<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React_Router" />
 	<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
 	<img src="https://camo.githubusercontent.com/bf84de1cbea83a0d5c7aa378dac303a8e3c0725451dae190022dcb6d90e3a408/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d486f6f6b732d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d5265616374266c6f676f436f6c6f723d253233363144414642" alt="Hooks" />
@@ -52,12 +53,12 @@
 	<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
 	<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
 </div>
-<h2 align="center">Esse é o meu GitHub Status :</h2>
+<!-- <h2 align="center">Esse é o meu GitHub Status :</h2>
  <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=GustavoAns&show_icons=true&theme=voe" />
   
-</div>
+</div> -->
 <h2 align="center">Ultimas contribuições :</h2>
 
 ![Snake animation](https://github.com/GustavoAns/GustavoAns/blob/output/github-contribution-grid-snake.svg)
