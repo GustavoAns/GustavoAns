@@ -1,7 +1,7 @@
 <h1 align="center">Olá <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30>, Eu me chamo Gustavo Anselmo</h1>
 <h2><b>Sobre mim</b></h2>
 <p>Curioso desde criança com novas tecnologias, Sempre busquei aprender a criar soluçoes para problemas do meu dia a dia.</p>
-<p>Hoje, aos 22 anos, sou desenvolvedor Full Stack e adoro o que faço. 🤓</p>
+<p>Hoje, aos 23 anos, sou desenvolvedor Full Stack e adoro o que faço. 🤓</p>
 <p>Há pouco mais de um ano terminei meus estudos na <a href="https://www.betrybe.com/">Trybe</a>, escola de programação voltada principalmente para Hard-Skills e Soft-Skills exigidos pelo mercado de trabalho. 💼</p>
 <h2><b>Contato</b></h2>
 <div display="flex" align="center">
